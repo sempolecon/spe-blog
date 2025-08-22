@@ -23,7 +23,7 @@ jobs:
           cache: 'pip'
       - name: Install deps
         run: |
-          pip install -U jupyter-book
+          pip install -U jupyter-book pandas numpy matplotlib seaborn 
       - name: Build book
         run: jupyter-book build .
       - name: Upload artifact
