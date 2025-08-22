@@ -1,0 +1,19 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+- caption: Investigación
+  chapters:
+  - file: inv1.ipynb
+- caption: Blogs
+  chapters:
+  - file: blog1.md
+  - file: blog2.md
+- caption: Visualización
+  chapters:
+  - file: viz1.ipynb
+
+
+
