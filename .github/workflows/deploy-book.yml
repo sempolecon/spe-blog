@@ -24,7 +24,6 @@ jobs:
       - name: Install deps
         run: |
           pip install -U jupyter-book
-          # instala aquí paquetes extra que usen tus notebooks (pandas, matplotlib, etc.)
       - name: Build book
         run: jupyter-book build .
       - name: Upload artifact
