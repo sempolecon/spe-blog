@@ -1,6 +1,6 @@
 # Análisis de la política fiscal en Leticia en el contexto del discurso de soberanía territorial
 
-## Stephany Narvaez
+**Stephany Narvaez**
 
 Leticia es un municipio con una gran riqueza natural y una marcada relevancia geopolítica. Ubicada en el extremo sur de Colombia, esta capital amazónica comparte frontera con Perú y Brasil, lo que la convierte en un punto esencial para la proyección e integración nacional. Sin embargo, a pesar de su importancia regional, la política fiscal diseñada para este territorio ha estado históricamente desvinculada de su realidad y sus necesidades particulares, generando una alta dependencia de las transferencias nacionales y limitando su capacidad institucional para un desarrollo sostenible y autónomo.
 
@@ -25,8 +25,3 @@ Este debilitamiento fiscal también se refleja en el uso poco estratégico de lo
 Lo anterior mencionado no busca desestimar el papel estratégico del turismo en Leticia. De hecho, gracias a esta actividad, muchos habitantes acceden a empleos y oportunidades de emprendimiento que difícilmente encontrarían en otros sectores. El problema no está en el origen de los recursos, sino en su destino. Incluso las transferencias del gobierno se orientan hacia proyectos de embellecimiento urbano y promoción turística, sin una planificación que conecte esas inversiones con las necesidades sociales más urgentes. En lugar de fortalecer lo que verdaderamente puede mejorar la vida de la gente, se priorizan intervenciones visibles pero superficiales, que responden a un criterio institucional más que a una intención por mejorar el bienestar del municipio.
 
 En conclusión, la fragilidad fiscal en este territorio no es solo una consecuencia, es una condición persistente que compromete su capacidad de gobernarse y de ser gobernada. Mientras se habla de soberanía en la frontera, se olvida que, sin una fiscalidad adaptada al territorio, esa soberanía se queda en el papel. La ausencia de esquemas fiscales ajustados a las particularidades de municipios con alta vulnerabilidad y baja conectividad, como Leticia, evidencia una política económica que sigue ignorando lo que cuesta sostener la Amazonía. Entonces, ¿Qué sentido tiene custodiar los límites del país si se continúa desatendiendo lo que ocurre dentro de ellos?
-
-### Referencias
-
-```{bibliography}
-```
