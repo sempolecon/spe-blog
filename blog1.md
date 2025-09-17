@@ -26,6 +26,7 @@ Lo anterior mencionado no busca desestimar el papel estratégico del turismo en 
 
 En conclusión, la fragilidad fiscal en este territorio no es solo una consecuencia, es una condición persistente que compromete su capacidad de gobernarse y de ser gobernada. Mientras se habla de soberanía en la frontera, se olvida que, sin una fiscalidad adaptada al territorio, esa soberanía se queda en el papel. La ausencia de esquemas fiscales ajustados a las particularidades de municipios con alta vulnerabilidad y baja conectividad, como Leticia, evidencia una política económica que sigue ignorando lo que cuesta sostener la Amazonía. Entonces, ¿Qué sentido tiene custodiar los límites del país si se continúa desatendiendo lo que ocurre dentro de ellos?
 
-## Referencias
+### Referencias
 
 ```{bibliography}
+```
