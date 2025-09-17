@@ -12,7 +12,7 @@ latex:
 sphinx:
   config:
     bibtex_bibfiles:
-      - referencias.bib
+      - references.bib
 
 repository:
   url: https://github.com/sempolecon/spe-blog                          
