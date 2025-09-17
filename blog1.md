@@ -1,3 +1,33 @@
-# Este es el primer blog
+# Análisis de la política fiscal en Leticia en el contexto del discurso de soberanía territorial
 
-Aquí un ejemplo.
+## Stephany Narvaez
+
+Leticia es un municipio con una gran riqueza natural y una marcada relevancia geopolítica. Ubicada en el extremo sur de Colombia, esta capital amazónica comparte frontera con Perú y Brasil, lo que la convierte en un punto esencial para la proyección e integración nacional. Sin embargo, a pesar de su importancia regional, la política fiscal diseñada para este territorio ha estado históricamente desvinculada de su realidad y sus necesidades particulares, generando una alta dependencia de las transferencias nacionales y limitando su capacidad institucional para un desarrollo sostenible y autónomo.
+
+Esta condición de abandono no es nueva y, si bien el reciente conflicto con Perú por la isla Santa Rosa volvió a dar visibilidad al municipio en la agenda nacional, la desatención que enfrenta lleva años siendo ignorada por el país. Mientras se habla de soberanía y defensa de la frontera, se pasa por alto la presencia efectiva del Estado en un territorio vulnerable, con condiciones sociales y geográficas complejas.
+
+En Colombia, los municipios se clasifican en seis categorías con base en lo establecido en la Ley 617 de 2000. Leticia pertenece a la última de ellas. Según el portal Construyendo Méritos, los municipios de categoría sexta son aquellos con menos de 10.000 habitantes y cuyos ingresos corrientes de libre destinación no superan los 15.000 salarios mínimos mensuales legales vigentes ([@congreso2000ley617, art. 6]). Esta clasificación implica que Leticia es reconocida como un territorio con limitaciones estructurales, lo cual puede reflejarse en su política fiscal.
+
+Los datos fiscales territoriales indican que, en 2024, la política fiscal de Leticia evidencia una disminución significativa en su capacidad de recaudo. El total de ingresos fue de 0,09 billones de pesos, lo que representa una caída del 32,6 % respecto al año anterior. Esta disminución, a su vez, se traduce en un ingreso per cápita de 1,67 millones de pesos, con una reducción del 34,6 % ([@ofetal2024informe], con base en datos del Ministerio de Hacienda y Crédito Público). Esto refuerza las dificultades que enfrenta el municipio al pertenecer a la sexta categoría.
+
+Además, si se revisa la manera en la que se compone el recaudo, puede observarse que la capital amazónica depende principalmente de las transferencias del gobierno nacional, mientras que los ingresos propios son menores y los recursos de capital están disminuyendo. Esta forma de financiamiento es poco diversificada y muy dependiente, limita la capacidad del gobierno local para planear, ejecutar y mantener políticas públicas que verdaderamente respondan a las condiciones reales del territorio.
+
+En el perfil estructural del municipio se evidencia una brecha importante en el acceso a servicios básicos. Mientras el promedio nacional de cobertura de acueducto alcanza el 74,48 %, en Leticia apenas llega al 38,79 %, lo que implica que más de la mitad de la población no cuenta con acceso adecuado a agua potable ([@dnp2023idfvisor]). Por otro lado, con base en el último Censo Nacional de Población y Vivienda, la cobertura de energía eléctrica en zonas rurales es de apenas 2,28 %, frente a un promedio nacional del 16,54 %. A esto se suma una necesidad urgente en materia de vivienda: el 45,39 % de los hogares en Leticia presentan déficit en el número de habitaciones disponibles, lo que refleja condiciones de vivienda reducida y supera ampliamente el promedio nacional de 9,81 % ([@dane2018cnpv]).
+
+Estos datos no solo muestran lo desigual que es la situación en Leticia, sino que también ponen en duda si la política fiscal actual realmente responde a lo que el territorio necesita. Lejos de fomentar estrategias
+
+que fortalezcan la autonomía presupuestaria del municipio y permitan orientar el gasto público según sus condiciones particulares, se ha mantenido un modelo de financiamiento rígido, que no solo ignora las necesidades de la población, sino que agrava la situación al no reconocer los costos adicionales de operar en la Amazonía.
+
+La política fiscal del municipio de Leticia evidencia debilidad e ineficiencia, reflejada en una caída del 9.1% en el índice de gestión financiera entre 2022 y 2023 ([@dnp2023idfvisor]). La ejecución de inversiones bajó de 87.7% a 77.1%, mostrando dificultades para convertir compromisos en pagos. La holgura presupuestal se redujo de 31.5 a 24.8 puntos, limitando la maniobrabilidad frente al límite legal. Aunque se mantiene la ejecución del presupuesto inicial, la alta dependencia de transferencias nacionales de 33.2% y la baja inversión pública de 18.5% afectan la autonomía fiscal. La no habilitación de los bonos de esfuerzo propio y catastro refuerza el rezago institucional ([@dnp2023idfvisor]).
+
+Este debilitamiento fiscal también se refleja en el uso poco estratégico de los recursos locales. Según el artículo de Mas Colombia, titulado ¿Es legal el cobro que hacen a turistas en Leticia?, buena parte del recaudo, especialmente el proveniente de la contribución turística, se destina a contratos relacionados con embellecimiento urbano, limpieza, ornato y promoción del destino ([@murillo2023leticia]). No obstante, “la comunidad local no percibe una inversión tangible del dinero recaudado” ([@murillo2023leticia, para. 6]).
+
+Lo anterior mencionado no busca desestimar el papel estratégico del turismo en Leticia. De hecho, gracias a esta actividad, muchos habitantes acceden a empleos y oportunidades de emprendimiento que difícilmente encontrarían en otros sectores. El problema no está en el origen de los recursos, sino en su destino. Incluso las transferencias del gobierno se orientan hacia proyectos de embellecimiento urbano y promoción turística, sin una planificación que conecte esas inversiones con las necesidades sociales más urgentes. En lugar de fortalecer lo que verdaderamente puede mejorar la vida de la gente, se priorizan intervenciones visibles pero superficiales, que responden a un criterio institucional más que a una intención por mejorar el bienestar del municipio.
+
+En conclusión, la fragilidad fiscal en este territorio no es solo una consecuencia, es una condición persistente que compromete su capacidad de gobernarse y de ser gobernada. Mientras se habla de soberanía en la frontera, se olvida que, sin una fiscalidad adaptada al territorio, esa soberanía se queda en el papel. La ausencia de esquemas fiscales ajustados a las particularidades de municipios con alta vulnerabilidad y baja conectividad, como Leticia, evidencia una política económica que sigue ignorando lo que cuesta sostener la Amazonía. Entonces, ¿Qué sentido tiene custodiar los límites del país si se continúa desatendiendo lo que ocurre dentro de ellos?
+
+
+
+
+Bibliografía
+
