@@ -1,6 +1,6 @@
 # Análisis de la política fiscal en Leticia en el contexto del discurso de soberanía territorial
 
-## Stephany Narvaez
+## Stephany Narvaez
 
 Leticia es un municipio con una gran riqueza natural y una marcada relevancia geopolítica. Ubicada en el extremo sur de Colombia, esta capital amazónica comparte frontera con Perú y Brasil, lo que la convierte en un punto esencial para la proyección e integración nacional. Sin embargo, a pesar de su importancia regional, la política fiscal diseñada para este territorio ha estado históricamente desvinculada de su realidad y sus necesidades particulares, generando una alta dependencia de las transferencias nacionales y limitando su capacidad institucional para un desarrollo sostenible y autónomo.
 
@@ -26,8 +26,6 @@ Lo anterior mencionado no busca desestimar el papel estratégico del turismo en 
 
 En conclusión, la fragilidad fiscal en este territorio no es solo una consecuencia, es una condición persistente que compromete su capacidad de gobernarse y de ser gobernada. Mientras se habla de soberanía en la frontera, se olvida que, sin una fiscalidad adaptada al territorio, esa soberanía se queda en el papel. La ausencia de esquemas fiscales ajustados a las particularidades de municipios con alta vulnerabilidad y baja conectividad, como Leticia, evidencia una política económica que sigue ignorando lo que cuesta sostener la Amazonía. Entonces, ¿Qué sentido tiene custodiar los límites del país si se continúa desatendiendo lo que ocurre dentro de ellos?
 
+## Referencias
 
-
-
-Bibliografía
-
+```{bibliography}
